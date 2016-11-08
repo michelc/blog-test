@@ -1,1 +1,9 @@
+#
+# Blog Settings
+#
 title: Blog Test
+
+#
+# Jekyll Settings
+#
+permalink: /archive/:year/:month/:day/:title/
