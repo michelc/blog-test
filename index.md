@@ -15,4 +15,4 @@ Liste des billets
   {% endfor %}
 </ul>
 
-- [à propos](/about/) -
+EndOfPage : [à propos](/about/)
