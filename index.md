@@ -15,4 +15,4 @@ Liste des billets
   {% endfor %}
 </ul>
 
-EndOfPage : [à propos](/about/)
+EndOfPage : [à propos](/blog-test/about/)
