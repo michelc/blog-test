@@ -14,3 +14,5 @@ Liste des billets
     </li>
   {% endfor %}
 </ul>
+
+- [à propos](/about/) -
