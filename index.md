@@ -14,3 +14,9 @@ Liste des billets
     </li>
   {% endfor %}
 </ul>
+
+Liste en Markdown
+
+{% for post in site.posts %}
+* [{{ post.title }}]({{ post.url | relative_url }})
+{% endfor %}
