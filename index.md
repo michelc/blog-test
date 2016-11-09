@@ -20,3 +20,7 @@ Liste en Markdown
 {% for post in site.posts %}
 * [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
+
+Essai redirection de "premier-billet" vers "hello-world"
+
+<https://michelc.github.io/blog-test/archive/2016/11/08/premier-billet/>

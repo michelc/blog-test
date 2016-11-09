@@ -13,6 +13,7 @@ permalink: /archive/:year/:month/:day/:title/
 
 gems:
   - jekyll-feed
+  - jekyll-redirect-from
   - jekyll-sitemap
 
 feed:
