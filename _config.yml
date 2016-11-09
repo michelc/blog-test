@@ -11,5 +11,8 @@ title: Blog Test
 
 permalink: /archive/:year/:month/:day/:title/
 
+gems:
+  - jekyll-feed
+
 feed:
   path: atom.xml
